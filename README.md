@@ -1,4 +1,4 @@
-# # Network Device Monitoring System - Feature A
+# Network Device Monitoring System - Feature A & Feature B
 # Automation Project
 
 Learning Git.
