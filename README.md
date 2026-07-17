@@ -1,5 +1,9 @@
 # Network Device Monitoring System
+# Automation Project
 
+Learning Git.
+
+This line was added after git add.
 ## Project Overview
 
 This project automates the collection of network device health information such as:
