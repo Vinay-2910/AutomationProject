@@ -1,12 +1,17 @@
 # Python cache
+# Python cache
 __pycache__/
 *.pyc
 
 # Reports
 reports/
 
-# VS Code settings
+# Logs
+logs/
+*.log
+
+# VS Code
 .vscode/
 
-# macOS
-.DS_Store
+# Virtual Environment
+.venv/
