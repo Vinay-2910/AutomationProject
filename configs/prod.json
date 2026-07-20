@@ -1,0 +1,32 @@
+[
+    {
+        "hostname": "Router-1",
+        "ip": "192.168.1.10",
+        "location": "Hyderabad"
+    },
+    {
+        "hostname": "Router-2",
+        "ip": "192.168.1.20",
+        "location": "Pune"
+    },
+    {
+        "hostname": "Router-3",
+        "ip": "192.168.1.30",
+        "location": "Bangalore"
+    },
+    {
+        "hostname": "Router-4",
+        "ip": "192.168.1.40",
+        "location": "Chennai"
+    },
+    {
+        "hostname": "Router-5",
+        "ip": "192.168.1.50",
+        "location": "Delhi"
+    },
+    {
+        "hostname": "Router-6",
+        "ip": "192.168.1.60",
+        "location": "Mumbai"
+    }
+]

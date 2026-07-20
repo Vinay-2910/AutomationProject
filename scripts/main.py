@@ -12,7 +12,9 @@ def main():
     print("Network Device Monitoring System")
     print("=" * 40)
 
-    devices = load_devices("configs/devices.json")
+    environment = "test"
+
+    devices = load_devices(f"configs/{environment}.json")
 
     logger.info("Device configuration loaded successfully")
 
