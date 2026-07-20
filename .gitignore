@@ -1,17 +1,9 @@
-# Python cache
-# Python cache
 __pycache__/
 *.pyc
 
-# Reports
 reports/
 
-# Logs
 logs/
 *.log
 
-# VS Code
-.vscode/
-
-# Virtual Environment
 .venv/
